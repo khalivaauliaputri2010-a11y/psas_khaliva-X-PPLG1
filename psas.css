@@ -1,0 +1,33 @@
+.body {
+  background-color: blue;
+}
+.header {
+  background-color: pink;
+  text-align: center;
+  padding: 20px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav {
+  background-color: pink;
+  padding: 20px;
+  text-align: center;
+}
+.img {
+  width: 100px;
+  height: auto;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: blueviolet;
+  color: white;
+  font-size: 20px;
+  margin-top: 200px;
+}
+.kotak {
+  background-color: pink;
+  padding: 50px;
+  margin-top: 25px;
+  text-align: center;
+}
